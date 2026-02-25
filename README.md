@@ -1,2 +1,2 @@
 # web_dev
-kakeguri mashou
+kakegurui mashou
